@@ -1,2 +1,2 @@
-# notary
+# Notary
 Internship Project
